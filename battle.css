@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 200px;
+    height: 63px;
+    border: 3px solid gray;
+    margin: auto;
+    border-radius: 6px;
+}
+.main{
+    width: 100px;
+    height: 60px;
+    background-color: gray;
+}
+.pogo{
+    width: 15px;
+    height: 40px;
+    border: 3px solid gray;
+    margin-left: 790px;
+    margin-top: 80px;
+    background-color: gray;
+}
